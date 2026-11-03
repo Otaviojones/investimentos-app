@@ -1,0 +1,8 @@
+{
+  "appId": "com.meusinvestimentos.app",
+  "appName": "Meus Investimentos",
+  "webDir": "www",
+  "plugins": {
+    "CapacitorHttp": { "enabled": true }
+  }
+}
